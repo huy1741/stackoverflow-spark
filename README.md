@@ -55,5 +55,12 @@ Replace <database> with the target database name and <collection> with the desir
 
 ![image](https://github.com/huy1741/stackoverflow-spark/assets/64857328/5f4dde23-5100-4b46-bea1-422cae91bd57)
 
+### Task 7: Join answers and questions
+- Join both dataframe for better insights
+- Use bucket to improve query performance on large datasets
+
+![image](https://github.com/huy1741/stackoverflow-spark/assets/64857328/e654a66d-528a-4577-8cb1-42fb49a133e4)
+
+
 
 
